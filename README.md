@@ -1,1 +1,1 @@
-A simple UI to select multiple text files for concatenation. Useful for copy/paste into gists, AIs, etc.
+A simple UI to select multiple text files for concatenation. Useful for copy/pasting multiple files all at once into gists, AIs, etc.
